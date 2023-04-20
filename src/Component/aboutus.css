@@ -1,0 +1,33 @@
+.d{
+    padding: 0px;
+ 
+    width: 1290px;
+    box-sizing: border-box;
+    height: 500px;
+    background: #23283C;
+    color:white;
+
+   
+    }
+    .u{
+        width: 500px;
+        float: left;
+        height: 500px;
+        padding-left:100px;
+        padding-top:100px;
+      
+        
+    }
+    h1{
+        font-weight: bold;
+        font-size: 100px;
+    }
+   
+    .b{
+        
+            width: 200px;
+            float: left;
+            height: 500px;
+            
+        
+    }

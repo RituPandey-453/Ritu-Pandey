@@ -1,0 +1,34 @@
+.ab{
+  padding: 0px;
+
+    width: 1290px;
+    box-sizing: border-box;
+    height: 500px;
+    background:white;
+    color:black;
+  
+    color: #6B7B9C;
+    font-size: 17px;
+    }
+    .ab1{
+        width: 700px;
+        float: left;
+        height: 500px;
+        padding-left:100px;
+        padding-top:100px;
+      
+        
+    }
+    h1{
+        font-weight: bold;
+        font-size: 100px;
+    }
+   
+    .ab2{
+        
+            width: 300px;
+            float: left;
+            height: 500px;
+            
+        
+    }

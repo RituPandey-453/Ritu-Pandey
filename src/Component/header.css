@@ -1,0 +1,87 @@
+
+.a{
+    position: absolute;
+    width: 1440px;
+    height: 74px;
+    background: #FFFFFF;
+    color: black;
+}
+
+.solutions{width:77px;
+height: 28px;
+margin-left: 300px;
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-transform: capitalize;
+color: #6D7287;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.pricing{
+width: 58px;
+height: 28px;
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-transform: capitalize;
+color: #6D7287;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.testimonials{
+width: 103px;
+height: 28px;
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-transform: capitalize;
+color: #6D7287;
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+.b{
+    width: 40px;
+height: 21px;
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+color: #4C70F0;
+flex: none;
+margin-left:200px;
+order: 0;
+flex-grow: 0;
+}
+
+.login{
+    border-radius: 6px;
+height: 38px;
+width: 100px;
+border:2px solid #4C70F0;
+font-family: 'Overpass';
+font-style: normal;
+line-height: 18px;
+text-align: center;
+margin-right: 50px;
+box-sizing: border-box;
+color: #4C70F0;
+}
+.n{
+border-radius: 6px;
+height: 38px;
+margin-right: 10px;
+background: #4C70F0;
+
+}
